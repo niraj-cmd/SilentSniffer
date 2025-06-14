@@ -31,4 +31,4 @@ Use for authorized security testing and educational purposes only.
 - README.md
 
 ## 👤 Author
-Made by [Your Name or Alias]
+Made by Niraj Ashtaputre
